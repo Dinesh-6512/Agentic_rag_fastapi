@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg[binary]
+PyJWT
+passlib==1.7.4
+bcrypt==4.0.1
+python-multipart
+python-dotenv
+faiss-cpu
+numpy
+google-genai
+langgraph
+groq
